@@ -5,6 +5,7 @@
     padding:0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
+    scroll-behavior: smooth;
 }
 
 section{
@@ -224,4 +225,14 @@ body{
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
+}
+
+.about .content .col-right .content-title{
+    font-size: 2em;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.about .content .col-right .content-title .paragraph-text{
+    font-size: 1em;
 }
