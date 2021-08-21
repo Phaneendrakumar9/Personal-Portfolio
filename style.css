@@ -18,7 +18,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/bg.jpg)no-repeat;
+  background: url(images/bg1.jpg)no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -46,7 +46,7 @@ section{
 }
 
 .animated-text h3{
-  color: #4e9eff;
+  color: #3a6cf4;
   font-size: 3em;
   font-weight: 700;
   line-height: 70px;
@@ -112,7 +112,7 @@ section{
 header{
   z-index: 999;
   position: fixed;
-  background: rgba(255, 255, 255, 0.1);
+  background: #3a6cf4;
   top: 0;
   left: 0;
   width: 100%;
@@ -124,7 +124,7 @@ header{
 }
 
 header.sticky{
-  background: #3a6cf4;
+  background: #000250;
   padding: 10px 200px;
 }
 
