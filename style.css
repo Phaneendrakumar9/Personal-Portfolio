@@ -75,6 +75,11 @@ section{
   }
 }
 
+.project-text{
+  color: #fff;
+  margin-top: 8px;
+}
+
 .btn{
   color: #fff;
   background: #3a6cf4;
