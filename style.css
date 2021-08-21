@@ -149,11 +149,11 @@ header .navigation a{
 }
 
 header .navigation a:hover{
-  color: #3a6cf4;
+  color: #000116;
 }
 
 header.sticky .navigation a:hover{
-  color: #000;
+  color: #fff;
 }
 
 body{
@@ -522,7 +522,6 @@ body{
   height: 40px;
   border-radius: 5px;
 }
-
 
 
 .contact-form .input-box .send-btn:hover{
