@@ -30,7 +30,7 @@ section{
 
 .main .content h2{
   color: #fff;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 500;
 }
 
@@ -314,12 +314,12 @@ body{
   background: #e3a324;
 }
 
-.skills .content .col-right .bar .jquery:before{
+.skills .content .col-right .bar .react:before{
   width: 80%;
   background: #30dd6d;
 }
 
-.skills .content .col-right .bar .php:before{
+.skills .content .col-right .bar .node:before{
   width: 75%;
   background: #6d7eb8;
 }
