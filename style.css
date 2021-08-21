@@ -519,7 +519,11 @@ body{
   border: none;
   cursor: pointer;
   transition: 0.5s ease;
+  height: 40px;
+  border-radius: 5px;
 }
+
+
 
 .contact-form .input-box .send-btn:hover{
   background: #235bf6;
